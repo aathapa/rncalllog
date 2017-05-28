@@ -1,0 +1,3 @@
+rootProject.name = 'rnNative'
+
+include ':app'
